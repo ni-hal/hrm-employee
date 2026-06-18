@@ -36,7 +36,7 @@ npm run lint - Run ESLint
 API Configuration
 The application uses axios for API calls. Configuration is in src/config/axiosConfig.js:
 
-const baseURL = "https://superladmin.seclobconnect.com";
+const baseURL = "superadmin 
 Environment Variables
 Create a .env file in the root directory:
 
